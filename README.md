@@ -6,4 +6,4 @@ Teknologi yang dipakai
 - JavaScript
 
 Api Source 
-- https://viko-api.herokuapp.com/api/darkjokes?apikey=<YOUR-KEY>
+- https://viko-api.herokuapp.com/api/darkjokes?apikey=YOUR-KEY
