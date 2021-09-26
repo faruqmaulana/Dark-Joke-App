@@ -1,1 +1,6 @@
-# Dark-Joke-App
+# Simple Apps
+
+Teknologi yang dipakai 
+- HTML
+- CSS
+- JavaScript
