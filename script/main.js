@@ -8,8 +8,13 @@ fetch('https://viko-api.herokuapp.com/api/darkjokes?apikey=vinko')
         cardImg += 
         `<div class="mb-4">
             <img src="${img}" style="width:100%; border-radius:10px; margin">
-            <p style="color: #e9eaeb;" class="text-center font-weight-bold">Gambar ${i}</p>
-        </div>`;
+            <p style="color: #e9eaeb; margin-top:10px;" class="text-center font-weight-bold">Gambar ${i}</p>
+        </div>
+        <hr style="    
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        border: 0;
+        border-top: 1px solid #e9eaeb">`;
 
         const imgContent = document.querySelector('.images');
         imgContent.innerHTML += cardImg;
