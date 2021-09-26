@@ -1,5 +1,5 @@
 for(let i=1; i<=15; i++){
-fetch('https://viko-api.herokuapp.com/api/darkjokes?apikey=inko')
+fetch('https://viko-api.herokuapp.com/api/darkjokes?apikey=vinko')
   .then(response => response.json())
   .then(data => {
         let img = data.result;
