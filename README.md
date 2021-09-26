@@ -1,4 +1,4 @@
-# Simple Apps
+# Simple App
 
 Teknologi yang dipakai 
 - HTML
